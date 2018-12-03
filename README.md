@@ -1,2 +1,2 @@
-# onepunchman
-un prjet pour apprendr eà collaborer avec git
+# OnePunchMan
+un projet pour apprendre à collaborer avec git
