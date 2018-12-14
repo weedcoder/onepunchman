@@ -1,4 +1,4 @@
-# OnePunchMan
+﻿# OnePunchMan
 un projet pour apprendre à collaborer avec git
 
 wsh wsh wsh
@@ -12,3 +12,4 @@ Kenji LAU
 Hugo Megardon
 
 Joliman Iris
+ Nicolas Lecouflet
