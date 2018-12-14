@@ -4,4 +4,21 @@ un projet pour apprendre à collaborer avec git
 wsh wsh wsh
 
 you punk!
-420 stuff
+
+Gaétan MARCQ
+
+Kenji LAU
+
+Hugo Megardon
+
+Joliman Iris
+
+Nicolas Lecouflet
+ 
+Adriano Knut
+
+SKRRR SKRR
+
+Bastien MELIER
+
+Benjamin Lebas
